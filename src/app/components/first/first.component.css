@@ -1,0 +1,19 @@
+.container {
+  width: 100%;
+  white-space: nowrap;
+}
+
+.container {
+  padding: 2rem 0rem;
+}
+
+.table-image {
+  td, th {
+    vertical-align: middle;
+  }
+}
+
+td {
+  white-space: normal !important;  
+  word-wrap: break-word;  
+}
